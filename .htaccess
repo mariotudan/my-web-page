@@ -1,4 +1,0 @@
-RewriteEngine On
-RewriteBase /
-RewriteCond %{HTTP_HOST} ^www\.([^.]+\.xn\-\-tuan\-1ua\.com)$ [NC]
-RewriteRule ^ http://%1%{REQUEST_URI} [R=301,L]
