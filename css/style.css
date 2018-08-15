@@ -10,3 +10,7 @@ main {
 	padding-top: 12px;
 	width: 90px;
 }
+
+h6.header {
+    font-size: 18px
+}
